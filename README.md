@@ -1,2 +1,2 @@
 # projeto-DestinoCerto
- Projeto de paseios em construção para faculdade
+ Projeto de paseios para faculdade
